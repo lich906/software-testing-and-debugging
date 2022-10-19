@@ -21,6 +21,8 @@ with open(testcases_file_path, "r") as testcases_file:
 
 with open(test_results_file_path, "w") as test_results_file:
     for testcase in testcases:
+        if testcase == "":
+            continue
         a, b, c, expected_result = testcase.rstrip().split(',')
         cmd = ' '.join([program_under_test_path, a, b, c])
         process = subprocess.Popen(cmd, stdout=subprocess.PIPE, shell=True)
