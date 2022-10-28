@@ -23,8 +23,10 @@ with open(test_results_file_path, "w") as test_results_file:
     for testcase in testcases:
         if testcase == "":
             continue
-        a, b, c, expected_result = testcase.rstrip().split(',')
-        cmd = ' '.join([program_under_test_path, a, b, c])
+        #a, b, c, expected_result = testcase.rstrip().split(',')
+        testcase_data = testcase.rstrip().split(':')
+        expected_result = testcase_data[1]
+        cmd = ' '.join([program_under_test_path] + testcase_data[0].split(','))
         process = subprocess.Popen(cmd, stdout=subprocess.PIPE, shell=True)
         out, err = process.communicate()
         result = out.rstrip().decode('cp1251')
