@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LinksValidator": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.google.com/"
+    }
+  }
+}
