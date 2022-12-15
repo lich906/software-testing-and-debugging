@@ -1,0 +1,23 @@
+Align character height: Y, N
+Âouble strikethrough: Y, N
+Color: #C00000, #F00000, #FFC000, #FF0000, #90D050, #00B050, #00B0F0, #0070C0, #002060, #7030A0
+ColorUnderline: None, #90D050, #00B050, #00B0F0, #0070C0, #002060, #7030A0, #FFC000, #FF0000, #C00000
+Font: Times New Roman, Arial, Stencil, Kunstler Script, Jokerman
+Lowercase: Y, N
+Shift: -100, -14.03, 0, 10, 50, 100, 12.97
+Size: 1, 12, 12.5, 4000
+Strikethrough: Y, N, Double
+Style: Regular, Italic, SemiBold, SemiBold Italic
+Subscript: Y, N
+Superscript: Y, N
+Underline: None, Single, Double, Bold, Dotted, Dotted bold, Dashed, Dashed bold, Wave, Wave bold, Wave double
+Uppercase: Y, N
+AlignHeight: Y, N
+
+IF [Underline] = "None" THEN [ColorUnderline] = "None";
+IF [Subscript] = "Y" THEN [Superscript] = "N";
+IF [Superscript] = "Y" THEN [Subscript] = "N";
+IF [Shift] > 0 THEN [Superscript] = "Y";
+IF [Shift] < 0 THEN [Subscript] = "Y";
+IF [Shift] = 0 THEN [Superscript] = "N";
+IF [Shift] = 0 THEN [Subscript] = "N";

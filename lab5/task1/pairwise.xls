@@ -1,0 +1,129 @@
+Align character height	Âouble strikethrough	Color	ColorUnderline	Font	Lowercase	Shift	Size	Strikethrough	Style	Subscript	Superscript	Underline	Uppercase	AlignHeight
+Y	Y	#00B050	#C00000	Arial	N	10	1	N	SemiBold	N	Y	Dotted bold	Y	Y
+N	N	#00B050	#7030A0	Stencil	Y	-14.03	12	Y	Regular	Y	N	Wave double	N	N
+Y	N	#0070C0	#002060	Jokerman	N	0	4000	Double	SemiBold Italic	N	N	Wave bold	Y	N
+N	Y	#FFC000	#FFC000	Times New Roman	Y	100	12.5	Y	Italic	N	Y	Dashed bold	N	Y
+N	Y	#7030A0	None	Kunstler Script	N	-100	12.5	Double	SemiBold	Y	N	None	N	Y
+Y	N	#00B050	#0070C0	Kunstler Script	Y	50	4000	N	Regular	N	Y	Wave bold	N	Y
+Y	Y	#FFC000	#00B050	Stencil	N	12.97	12	N	SemiBold Italic	N	Y	Dotted	Y	N
+N	N	#FFC000	#00B0F0	Jokerman	Y	-100	1	N	Italic	Y	N	Single	Y	N
+N	N	#002060	#FF0000	Arial	Y	-100	4000	Y	SemiBold Italic	Y	N	Dotted bold	N	N
+Y	Y	#FF0000	#90D050	Jokerman	Y	12.97	12.5	Double	Regular	N	Y	Bold	Y	Y
+N	Y	#0070C0	#00B0F0	Stencil	Y	10	12	Double	Italic	N	Y	Dashed	N	Y
+Y	N	#00B050	#90D050	Times New Roman	N	-14.03	1	Y	SemiBold	Y	N	Bold	N	N
+N	N	#FF0000	#0070C0	Kunstler Script	N	-14.03	12	Y	SemiBold	Y	N	Dashed bold	Y	N
+Y	Y	#002060	#7030A0	Times New Roman	N	50	1	Double	Italic	N	Y	Double	Y	Y
+N	N	#C00000	#C00000	Jokerman	Y	-14.03	12.5	Y	SemiBold Italic	Y	N	Dotted	N	Y
+N	N	#00B050	#00B050	Times New Roman	Y	-100	12.5	N	SemiBold Italic	Y	N	Double	N	N
+Y	Y	#0070C0	#FF0000	Arial	N	100	4000	N	SemiBold	N	Y	Wave double	Y	Y
+N	N	#F00000	None	Arial	Y	12.97	12	Y	Italic	N	Y	Wave bold	N	N
+Y	N	#FF0000	#FFC000	Stencil	N	100	1	N	SemiBold Italic	N	Y	Wave bold	N	N
+Y	N	#00B0F0	#00B050	Kunstler Script	N	10	4000	Double	Italic	N	Y	Wave double	Y	Y
+Y	N	#FFC000	None	Arial	Y	10	4000	Double	Regular	N	Y	None	Y	N
+N	Y	#90D050	#002060	Kunstler Script	Y	-100	12	N	SemiBold Italic	Y	N	Bold	N	Y
+Y	Y	#F00000	#FFC000	Stencil	N	-100	1	Double	Regular	Y	N	Dashed bold	Y	Y
+Y	Y	#C00000	#00B0F0	Stencil	N	50	12.5	N	SemiBold	N	Y	Wave bold	Y	N
+Y	N	#00B050	#002060	Times New Roman	Y	12.97	4000	Double	Italic	N	Y	Dashed bold	N	Y
+Y	Y	#C00000	#C00000	Times New Roman	N	100	12	Double	Regular	N	Y	Single	N	Y
+N	N	#0070C0	#00B050	Kunstler Script	N	50	1	Y	Regular	N	Y	Wave	N	N
+N	N	#002060	#7030A0	Jokerman	Y	10	12.5	N	SemiBold	N	Y	Single	N	Y
+N	Y	#C00000	#90D050	Arial	Y	-14.03	4000	N	Italic	Y	N	Wave	Y	Y
+Y	Y	#0070C0	None	Jokerman	N	-14.03	12	Y	SemiBold Italic	Y	N	None	N	N
+N	Y	#FFC000	#0070C0	Kunstler Script	Y	0	1	Y	SemiBold Italic	N	N	Wave double	N	N
+N	Y	#00B0F0	#FF0000	Times New Roman	Y	-14.03	12	Y	SemiBold Italic	Y	N	Wave bold	N	N
+Y	N	#C00000	#002060	Arial	Y	50	12.5	Double	SemiBold Italic	N	Y	Wave double	N	Y
+Y	Y	#FFC000	#FFC000	Kunstler Script	Y	-14.03	12	Double	SemiBold	Y	N	Dotted bold	Y	Y
+N	Y	#00B0F0	None	Stencil	Y	12.97	1	N	Italic	N	Y	None	N	Y
+Y	N	#C00000	#00B0F0	Kunstler Script	Y	12.97	12.5	Y	Regular	N	Y	Dotted bold	Y	Y
+Y	Y	#F00000	#90D050	Stencil	Y	0	4000	Y	SemiBold Italic	N	N	Single	N	N
+Y	N	#F00000	#FF0000	Jokerman	Y	12.97	12.5	N	SemiBold	N	Y	Wave double	Y	N
+N	N	#FF0000	None	Times New Roman	N	50	4000	Y	Italic	N	Y	None	N	Y
+Y	N	#90D050	None	Jokerman	N	100	4000	Y	Italic	N	Y	None	Y	N
+N	Y	#90D050	#FF0000	Times New Roman	N	10	1	Double	Regular	N	Y	Wave bold	N	N
+Y	N	#7030A0	#C00000	Times New Roman	Y	50	4000	N	Italic	N	Y	Wave double	Y	N
+Y	Y	#90D050	#0070C0	Stencil	Y	12.97	12.5	Double	SemiBold	N	Y	Wave	Y	Y
+Y	N	#F00000	#00B0F0	Arial	Y	-14.03	4000	Y	Italic	Y	N	Bold	N	Y
+Y	N	#7030A0	#002060	Arial	N	-14.03	1	Y	SemiBold Italic	Y	N	Dashed	Y	N
+Y	N	#FF0000	#7030A0	Kunstler Script	Y	-100	4000	N	SemiBold	Y	N	Dashed	N	Y
+Y	N	#0070C0	#FFC000	Arial	Y	12.97	12.5	Y	SemiBold	N	Y	Single	Y	Y
+Y	N	#C00000	#FF0000	Stencil	Y	10	1	N	Italic	N	Y	Bold	Y	Y
+Y	Y	#00B0F0	#FFC000	Jokerman	N	50	12.5	N	Regular	N	Y	Dashed	Y	Y
+Y	Y	#002060	#002060	Times New Roman	Y	100	12	N	Regular	N	Y	Wave	N	Y
+N	N	#90D050	#00B050	Arial	Y	50	12	N	SemiBold	N	Y	Dashed bold	Y	Y
+Y	N	#00B0F0	#00B0F0	Kunstler Script	N	100	12	Y	SemiBold	N	Y	Double	Y	Y
+N	Y	#C00000	#0070C0	Times New Roman	N	10	12	N	SemiBold Italic	N	Y	Dashed	Y	Y
+N	Y	#7030A0	None	Stencil	Y	10	12	Y	Regular	N	Y	Wave double	Y	Y
+Y	Y	#FF0000	#002060	Arial	N	10	4000	Double	SemiBold	N	Y	Dotted	N	Y
+N	Y	#FF0000	#FF0000	Kunstler Script	Y	50	12	N	Italic	N	Y	Single	N	Y
+N	Y	#0070C0	#90D050	Jokerman	Y	10	12	N	SemiBold Italic	N	Y	Dashed bold	Y	Y
+N	N	#00B0F0	#0070C0	Arial	N	-100	12.5	N	SemiBold Italic	Y	N	Single	N	Y
+Y	N	#7030A0	#00B050	Jokerman	Y	-14.03	4000	N	SemiBold Italic	Y	N	Single	N	Y
+Y	Y	#002060	#FFC000	Kunstler Script	Y	0	1	N	Italic	N	N	Dotted	Y	Y
+N	N	#00B050	None	Jokerman	N	0	12.5	N	SemiBold Italic	N	N	None	N	Y
+Y	N	#7030A0	#FFC000	Arial	Y	0	4000	N	Regular	N	N	Double	N	Y
+N	N	#90D050	#90D050	Kunstler Script	Y	-100	12	Double	SemiBold Italic	Y	N	Wave double	N	N
+N	N	#F00000	#00B050	Times New Roman	Y	-14.03	12	Double	SemiBold	Y	N	Dashed	N	Y
+N	N	#90D050	#FF0000	Times New Roman	Y	-14.03	12	Double	SemiBold	Y	N	Dashed	N	Y
+Y	Y	#FF0000	#00B0F0	Jokerman	N	0	12	N	SemiBold Italic	N	N	Wave	Y	N
+Y	Y	#0070C0	#00B050	Kunstler Script	N	-100	4000	N	SemiBold	Y	N	Bold	N	Y
+Y	N	#002060	#00B0F0	Times New Roman	N	0	12	Y	SemiBold	N	N	Wave double	Y	N
+N	Y	#FFC000	#7030A0	Stencil	N	0	12	Double	SemiBold Italic	N	N	Wave bold	Y	Y
+Y	N	#C00000	#C00000	Stencil	Y	0	12	Double	Italic	N	N	Double	Y	N
+Y	N	#002060	None	Stencil	Y	-14.03	1	N	SemiBold	Y	N	Dashed	N	N
+N	N	#002060	#0070C0	Kunstler Script	N	100	4000	N	Italic	N	Y	Bold	N	Y
+Y	Y	#00B050	#FFC000	Stencil	N	100	12	Double	SemiBold	N	Y	Wave	N	N
+N	N	#F00000	None	Times New Roman	Y	100	4000	N	Italic	N	Y	Dotted bold	Y	Y
+N	Y	#0070C0	#0070C0	Jokerman	Y	12.97	1	Double	SemiBold	N	Y	Double	Y	Y
+Y	N	#00B0F0	#7030A0	Arial	Y	0	12	Double	Italic	N	N	Dashed bold	Y	Y
+N	N	#FFC000	#FF0000	Kunstler Script	Y	0	4000	Y	SemiBold Italic	N	N	Wave	N	N
+N	Y	#7030A0	#00B0F0	Times New Roman	N	50	4000	N	SemiBold Italic	N	Y	Dashed bold	N	Y
+N	Y	#7030A0	#7030A0	Kunstler Script	N	12.97	12.5	Double	SemiBold	N	Y	Wave	N	N
+N	Y	#00B050	#FF0000	Times New Roman	N	50	12.5	N	Italic	N	Y	Dashed bold	Y	N
+N	Y	#00B0F0	#C00000	Stencil	Y	-100	1	Double	Italic	Y	N	Wave	Y	Y
+N	Y	#00B050	#00B0F0	Times New Roman	Y	-100	12	Double	Regular	Y	N	Dotted	N	N
+Y	Y	#7030A0	#90D050	Stencil	N	-14.03	12.5	Y	SemiBold	Y	N	Dotted bold	N	Y
+N	Y	#FF0000	#C00000	Kunstler Script	N	10	1	N	Regular	N	Y	Double	Y	N
+N	N	#F00000	#90D050	Kunstler Script	N	50	12.5	Y	SemiBold	N	Y	Dotted	Y	N
+N	N	#0070C0	#7030A0	Jokerman	N	-14.03	1	N	SemiBold Italic	Y	N	Dotted bold	N	Y
+N	Y	#0070C0	#FF0000	Times New Roman	Y	-100	4000	N	Regular	Y	N	Dotted	Y	N
+N	N	#7030A0	#0070C0	Times New Roman	N	50	1	Double	SemiBold	N	Y	Dotted bold	Y	Y
+N	Y	#FFC000	#90D050	Stencil	N	100	4000	N	SemiBold Italic	N	Y	Dashed	N	Y
+N	N	#00B0F0	#002060	Stencil	Y	50	12.5	Y	Regular	N	Y	Bold	N	Y
+N	N	#90D050	#90D050	Jokerman	N	-14.03	12	Double	SemiBold Italic	Y	N	Double	N	Y
+Y	N	#F00000	#7030A0	Times New Roman	Y	10	12	Y	SemiBold Italic	N	Y	Wave	Y	Y
+Y	Y	#C00000	#FFC000	Arial	N	-100	12	Double	Italic	Y	N	Wave double	Y	N
+Y	Y	#F00000	#002060	Jokerman	N	100	12	Double	Regular	N	Y	Dotted bold	N	Y
+N	Y	#00B050	#00B050	Arial	Y	0	4000	Double	Italic	N	N	Single	Y	Y
+Y	N	#C00000	None	Stencil	N	100	1	N	SemiBold Italic	N	Y	None	Y	N
+Y	Y	#FFC000	#002060	Jokerman	N	12.97	4000	N	SemiBold	N	Y	Double	Y	Y
+N	N	#90D050	#C00000	Arial	Y	0	1	Double	SemiBold	N	N	Wave bold	Y	N
+N	Y	#7030A0	#7030A0	Times New Roman	N	100	4000	Y	Regular	N	Y	Bold	N	Y
+Y	N	#90D050	None	Times New Roman	Y	0	4000	Y	SemiBold	N	N	Single	Y	N
+N	Y	#F00000	#FF0000	Jokerman	Y	-100	1	N	SemiBold	Y	N	Double	Y	N
+N	N	#FF0000	#00B050	Kunstler Script	N	-100	4000	Double	Regular	Y	N	Dotted bold	Y	N
+Y	Y	#002060	#C00000	Arial	N	0	4000	Y	SemiBold Italic	N	N	Dashed bold	Y	N
+N	N	#90D050	#FFC000	Stencil	Y	10	1	Double	Italic	N	Y	Bold	N	Y
+N	N	#90D050	#7030A0	Jokerman	Y	-100	1	Double	SemiBold	Y	N	Dotted bold	N	Y
+N	N	#002060	None	Kunstler Script	Y	12.97	12.5	Y	Regular	N	Y	None	N	Y
+Y	Y	#002060	#00B050	Stencil	Y	0	4000	N	SemiBold Italic	N	N	Wave bold	Y	Y
+Y	N	#FFC000	None	Times New Roman	Y	50	12.5	Double	SemiBold Italic	N	Y	Wave	Y	Y
+N	N	#00B0F0	None	Jokerman	Y	-100	1	N	Regular	Y	N	Dotted	Y	Y
+Y	N	#FFC000	#C00000	Jokerman	Y	12.97	12.5	Double	SemiBold Italic	N	Y	Bold	N	N
+N	N	#F00000	#0070C0	Arial	Y	0	4000	Double	Italic	N	N	Dotted	N	N
+Y	N	#90D050	#7030A0	Times New Roman	Y	100	12	N	Regular	N	Y	Dotted	N	Y
+N	N	#00B0F0	#90D050	Kunstler Script	Y	10	12.5	Y	Italic	N	Y	Dotted bold	N	N
+Y	Y	#002060	#90D050	Times New Roman	Y	0	12.5	Y	Regular	N	N	Wave bold	N	N
+N	Y	#C00000	#00B050	Stencil	Y	100	12	Y	Regular	N	Y	Dashed bold	Y	Y
+Y	N	#00B050	#002060	Stencil	Y	-100	1	N	SemiBold	Y	N	Single	Y	N
+N	Y	#00B050	None	Arial	Y	0	4000	N	SemiBold Italic	N	N	Bold	Y	Y
+N	N	#90D050	#00B0F0	Jokerman	N	-100	1	N	SemiBold	Y	N	Dashed	N	N
+N	Y	#F00000	None	Stencil	Y	100	4000	Double	SemiBold Italic	N	Y	None	N	N
+Y	N	#C00000	#7030A0	Stencil	N	12.97	12.5	N	SemiBold Italic	N	Y	Dashed	N	Y
+N	N	#00B050	#C00000	Kunstler Script	N	-100	12	N	SemiBold	Y	N	Dashed	Y	Y
+N	Y	#7030A0	#FF0000	Kunstler Script	N	-100	12.5	Double	Italic	Y	N	Wave bold	N	Y
+N	N	#00B0F0	None	Times New Roman	N	10	12.5	Double	Regular	N	Y	Dashed bold	Y	Y
+N	Y	#FF0000	#FFC000	Stencil	N	0	4000	Y	Regular	N	N	Wave double	Y	Y
+N	Y	#F00000	#C00000	Jokerman	Y	0	12	Double	SemiBold Italic	N	N	Dashed	N	Y
+N	Y	#0070C0	#C00000	Jokerman	Y	0	12.5	Y	Regular	N	N	Dotted bold	N	Y
+N	N	#00B050	None	Stencil	Y	12.97	12	Y	Italic	N	Y	Double	N	N
+N	Y	#7030A0	#00B0F0	Arial	N	50	12.5	Y	SemiBold Italic	N	Y	Dotted	Y	Y
