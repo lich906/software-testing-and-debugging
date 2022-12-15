@@ -1,4 +1,4 @@
-Align character height	Âouble strikethrough	Color	ColorUnderline	Font	Lowercase	Shift	Size	Strikethrough	Style	Subscript	Superscript	Underline	Uppercase	AlignHeight
+Align character height	Double strikethrough	Color	ColorUnderline	Font	Lowercase	Shift	Size	Strikethrough	Style	Subscript	Superscript	Underline	Uppercase	AlignHeight
 Y	Y	#00B050	#C00000	Arial	N	10	1	N	SemiBold	N	Y	Dotted bold	Y	Y
 N	N	#00B050	#7030A0	Stencil	Y	-14.03	12	Y	Regular	Y	N	Wave double	N	N
 Y	N	#0070C0	#002060	Jokerman	N	0	4000	Double	SemiBold Italic	N	N	Wave bold	Y	N

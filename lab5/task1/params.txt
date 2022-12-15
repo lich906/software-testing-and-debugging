@@ -1,5 +1,5 @@
 Align character height: Y, N
-Âouble strikethrough: Y, N
+Double strikethrough: Y, N
 Color: #C00000, #F00000, #FFC000, #FF0000, #90D050, #00B050, #00B0F0, #0070C0, #002060, #7030A0
 ColorUnderline: None, #90D050, #00B050, #00B0F0, #0070C0, #002060, #7030A0, #FFC000, #FF0000, #C00000
 Font: Times New Roman, Arial, Stencil, Kunstler Script, Jokerman
